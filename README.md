@@ -1,6 +1,6 @@
 # Мой учебный репозиторий
 Репозиторий для хранения дз, практик и проектов по курсу Code
 ## Содержание
-Дз (./course 1/homeworks/)
-Практики (./course 1/practices/)
-Проекты (./course 1/projects/)
+- [Дз](.D:/practic_cod/homeworks/)
+- [Практики](.D:/practic_cod/practices/)
+- [Проекты](.D:/practic_cod/projects/)
